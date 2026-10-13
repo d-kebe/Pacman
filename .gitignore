@@ -1,0 +1,14 @@
+# Environnement virtuel Python
+.venv/
+venv/
+.env
+
+# Archives
+*.zip
+
+# VS Code
+.vscode/
+
+
+# macOS
+.DS_Store
